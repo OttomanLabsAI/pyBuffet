@@ -41,7 +41,11 @@ Open the **Build a list (AI)** tab in the dashboard. Copy the prompt shown there
 
 ## Warren Buffett tab
 
-The **Warren Buffett** tab holds chapter notes from *Warren Buffett and the Interpretation of Financial Statements* (chapters 1–13). Each card shows the chapter number, title and summary; select a chapter to read it in full, with its income-statement exhibits and previous/next navigation. The content lives in `buffett_book_ch113.json` and is embedded in the page so it works offline.
+The **Warren Buffett** tab holds chapter notes from *Warren Buffett and the Interpretation of Financial Statements* (chapters 1–13). Each chapter block shows the chapter number, title, exhibit tables and summary. The source data lives in `buffett_book_ch113.json` and is embedded in the page so it works offline.
+
+## Design
+
+The dashboard uses a boxed-mosaic editorial system: black-on-white two-colour discipline (ink `#111111` on paper `#FFFFFF`, two greys for secondary text), 1px square ink borders on every module, deep burgundy reserved for data highlights, and three type voices — Afacad Flux (uppercase micro-labels/buttons), Newsreader (body prose and italic captions), Prata (display headings). The ◐ Dark/Light button in the header toggles a pure inversion, persisted in localStorage.
 
 ## Files
 
