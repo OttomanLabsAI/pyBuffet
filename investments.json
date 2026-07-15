@@ -1,0 +1,492 @@
+{
+  "investments": [
+    {
+      "company": "Micron Technology",
+      "category": "RAM",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "01/02/2026"
+    },
+    {
+      "company": "Samsung Electronics",
+      "category": "RAM",
+      "ticker": "SMSN",
+      "exchange": "LSE",
+      "country": "South Korea",
+      "date_spotted": "01/02/2026"
+    },
+    {
+      "company": "SK hynix",
+      "category": "RAM",
+      "ticker": "HY9H",
+      "exchange": "Gettex",
+      "country": "South Korea",
+      "date_spotted": "01/02/2026"
+    },
+    {
+      "company": "Lumentum Holdings",
+      "category": "Optical",
+      "ticker": "LITE",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "03/21/2026"
+    },
+    {
+      "company": "Coherent Corp.",
+      "category": "Optical",
+      "ticker": "COHR",
+      "exchange": "NYSE",
+      "country": "United States",
+      "date_spotted": "03/21/2026"
+    },
+    {
+      "company": "ARM Holdings",
+      "category": "Chips",
+      "ticker": "ARM",
+      "exchange": "NASDAQ",
+      "country": "United Kingdom",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Nvidia",
+      "category": "Chips",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Advanced Micro Devices",
+      "category": "Chips",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Intel",
+      "category": "Chips",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Qualcomm",
+      "category": "Chips",
+      "ticker": "QCOM",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Broadcom",
+      "category": "Chips",
+      "ticker": "AVGO",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Taiwan Semiconductor",
+      "category": "Chips",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "country": "Taiwan",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Western Digital",
+      "category": "RAM II",
+      "ticker": "WDC",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Sandisk",
+      "category": "RAM II",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Rambus",
+      "category": "RAM II",
+      "ticker": "RMBS",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Marvell Technology",
+      "category": "Network Infrastructure",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Credo Technology",
+      "category": "Network Infrastructure",
+      "ticker": "CRDO",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Nokia",
+      "category": "Network Infrastructure",
+      "ticker": "NOK",
+      "exchange": "NYSE",
+      "country": "Finland",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Zscaler",
+      "category": "Cybersecurity",
+      "ticker": "ZS",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Siemens Energy",
+      "category": "Energy",
+      "ticker": "ENR",
+      "exchange": "XETRA",
+      "country": "Germany",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Mitsubishi Electric",
+      "category": "Energy",
+      "ticker": "MIELY",
+      "exchange": "OTC",
+      "country": "Japan",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "BWX Technologies",
+      "category": "Energy",
+      "ticker": "BWXT",
+      "exchange": "NYSE",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Rolls-Royce",
+      "category": "Energy",
+      "ticker": "RR",
+      "exchange": "LSE",
+      "country": "United Kingdom",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "NANO Nuclear Energy",
+      "category": "Energy",
+      "ticker": "NNE",
+      "exchange": "NYSE",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Constellation Energy",
+      "category": "Energy",
+      "ticker": "CEG",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Rivian Automotive",
+      "category": "Transport",
+      "ticker": "RIVN",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Safran",
+      "category": "Transport",
+      "ticker": "SAF",
+      "exchange": "Euronext Paris",
+      "country": "France",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Uber Technologies",
+      "category": "Transport",
+      "ticker": "UBER",
+      "exchange": "NYSE",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Ferrari",
+      "category": "Transport",
+      "ticker": "RACE",
+      "exchange": "NYSE",
+      "country": "Italy",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "BYD",
+      "category": "Transport",
+      "ticker": "BYDDY",
+      "exchange": "OTC",
+      "country": "China",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Toyota Motor",
+      "category": "Transport",
+      "ticker": "TM",
+      "exchange": "NYSE",
+      "country": "Japan",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Tesla",
+      "category": "Transport",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Lucid",
+      "category": "Transport",
+      "ticker": "LCID",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "XPeng",
+      "category": "Transport",
+      "ticker": "XPEV",
+      "exchange": "NYSE",
+      "country": "China",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "SoundHound AI",
+      "category": "Software",
+      "ticker": "SOUN",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "category": "Software",
+      "ticker": "TTWO",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Electronic Arts",
+      "category": "Software",
+      "ticker": "EA",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "CoreWeave",
+      "category": "Software",
+      "ticker": "CRWV",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Crowdstrike",
+      "category": "Software",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Adobe",
+      "category": "Software",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Strategy",
+      "category": "Software",
+      "ticker": "MSTR",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Oracle",
+      "category": "Software",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Dassault Systemes",
+      "category": "Software",
+      "ticker": "DSY",
+      "exchange": "Euronext Paris",
+      "country": "France",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Autodesk",
+      "category": "Software",
+      "ticker": "ADSK",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Unity Software",
+      "category": "Software",
+      "ticker": "U",
+      "exchange": "NYSE",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "IREN",
+      "category": "Tech Hardware",
+      "ticker": "IREN",
+      "exchange": "NASDAQ",
+      "country": "Australia",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "STMicroelectronics",
+      "category": "Tech Hardware",
+      "ticker": "STM",
+      "exchange": "NYSE",
+      "country": "Switzerland",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Analog Devices",
+      "category": "Tech Hardware",
+      "ticker": "ADI",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Chipotle Mexican Grill",
+      "category": "Tech Hardware",
+      "ticker": "CMG",
+      "exchange": "NYSE",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Super Micro Computer",
+      "category": "Tech Hardware",
+      "ticker": "SMCI",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Lumen Technologies",
+      "category": "Tech Hardware",
+      "ticker": "LUMN",
+      "exchange": "NYSE",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Dell Technologies",
+      "category": "Tech Hardware",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Raspberry PI",
+      "category": "Tech Hardware",
+      "ticker": "RPI",
+      "exchange": "LSE",
+      "country": "United Kingdom",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Alphabet",
+      "category": "Technology",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Apple",
+      "category": "Technology",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Amazon",
+      "category": "Technology",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Meta Platforms",
+      "category": "Technology",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "IBM",
+      "category": "Technology",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Microsoft",
+      "category": "Technology",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Quantum Computing",
+      "category": "Quantum",
+      "ticker": "QUBT",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "date_spotted": "NONE"
+    },
+    {
+      "company": "Volatility Index",
+      "category": "Global Markets",
+      "ticker": "VOLX",
+      "exchange": "NONE",
+      "country": "United States",
+      "date_spotted": "NONE"
+    }
+  ]
+}
